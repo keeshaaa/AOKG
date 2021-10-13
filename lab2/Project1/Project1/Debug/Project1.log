@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\графика\2\Project1\Project1\Source.cpp(114,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  CGraphicObject.cpp
+E:\графика\2\Project1\Project1\CGraphicObject.cpp(25,40): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+E:\графика\2\Project1\Project1\CGraphicObject.cpp(26,19): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка E:\графика\2\Project1\Debug\Project1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Project1.vcxproj -> E:\графика\2\Project1\Debug\Project1.exe
