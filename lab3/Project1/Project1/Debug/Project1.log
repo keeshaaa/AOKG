@@ -1,0 +1,7 @@
+﻿  CCamera.cpp
+E:\графика\lab3\Project1\Project1\CCamera.cpp(5,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\графика\lab3\Project1\Project1\CCamera.cpp(50,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\графика\lab3\Project1\Project1\CCamera.cpp(56,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\графика\lab3\Project1\Project1\CCamera.cpp(61,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+E:\графика\lab3\Project1\Project1\CCamera.cpp(66,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Project1.vcxproj -> E:\графика\lab3\Project1\Debug\Project1.exe
